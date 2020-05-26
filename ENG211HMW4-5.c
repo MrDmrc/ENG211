@@ -26,5 +26,5 @@ int main()
   Approx_value_d=7.4399;
   per_error_d=((true_value-Approx_value_d)/true_value)*100;
   printf("d)\ntrue_value= %f\nApprox_value_d= %.1f\nper_error_d= %f\n",true_value,Approx_value_d,per_error_d );
-.
+
 }
